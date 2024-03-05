@@ -47,17 +47,26 @@ Step9: votrefichier txt est crée , aller sur codepipeline et creer une pipeline
 
 Step10: donner un nom à votre pipeline et attacher un role 
 
-![Capture d'écran 2024-03-04 181529](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/5e184987-f833-49d3-b692-aba500147960)
+![Capture d'écran 2024-03-05 172431](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/a5416ce1-62ae-4a05-b6a3-c632a441783c)
+
 
 step11: choisisez comme source codecommit et attacher le repository recemment creer et comme branch-name "main"
 
-![Capture d'écran 2024-03-04 182107](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/ef0d7789-aeaf-482d-990f-0bf2d75e8eab)
+![Capture d'écran 2024-03-05 172501](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/cb665b55-4e7e-421e-8861-5b5a47e4bd50)
+
 
 step 12: sauter cette etape avec un skip
 
-![Capture d'écran 2024-03-04 182239](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/812aff97-7191-430b-8ae3-9329b8caa0b7)
+![Capture d'écran 2024-03-05 172523](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/d0d0e2f2-6774-4190-bbb7-65c1d080de12)
 
-step 13: choisir 
+
+step 13: Faite les configurations et ajouter votre fichier txt creer precedamment 
+
+![Capture d'écran 2024-03-05 172633](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/01a959d5-0515-4215-acba-e7d4d9824ed0)
+
+le resultat finale et en bas , FELICITATIONS vous avez lancer un  ec2 avec autoscalling et load balancer et vous avez fait son pipeline.
+
+![Capture d'écran 2024-03-05 172721](https://github.com/AWS-Re-Start-RDC-KINSHASA-1/cloudformation/assets/125833085/ec17363c-273a-4013-8873-dc8c929db753)
 
 
 
